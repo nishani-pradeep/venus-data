@@ -1,0 +1,811 @@
+{
+"reportId": "4CB7463F160847ED81B7",
+"totalTaxableAmount": 200,
+"totalNonTaxableAmount": 200,
+"totalDeductibleAmount": 300,
+"totalNonDeductibleAmount": 700,
+"deductiblEntries": [
+{
+"entryId": "ed1348a4-4f00-4de1-b280-e737dd7058cb",
+"expenseType": "Outdoors",
+"amount": "€427.09",
+"deductibleAmount": "€48.44",
+"nonDeductibleAmount": "€0.78",
+"transactionDate": "2020-01-26",
+"deductibleVATAmount": "€2,53",
+"nonDeductibleVATAmount": "€5,10",
+"currencyCode": "EUR"
+},
+{
+"entryId": "a936d41f-46e6-49dc-b181-cf6ea653e151",
+"expenseType": "Home",
+"amount": "€956.96",
+"deductibleAmount": "€59.03",
+"nonDeductibleAmount": "€2.99",
+"transactionDate": "2019-10-21",
+"deductibleVATAmount": "€7,44",
+"nonDeductibleVATAmount": "€1,24",
+"currencyCode": "EUR"
+},
+{
+"entryId": "05a5ac70-8931-4ecc-9e7c-31de52749953",
+"expenseType": "Games",
+"amount": "€374.43",
+"deductibleAmount": "€47.93",
+"nonDeductibleAmount": "€6.75",
+"transactionDate": "2020-01-13",
+"deductibleVATAmount": "€7,90",
+"nonDeductibleVATAmount": "€3,84",
+"currencyCode": "EUR"
+},
+{
+"entryId": "57f9ea06-d009-41c0-8e14-10ffbc528288",
+"expenseType": "Health",
+"amount": "€544.34",
+"deductibleAmount": "€36.01",
+"nonDeductibleAmount": "€1.59",
+"transactionDate": "2019-10-30",
+"deductibleVATAmount": "€1,59",
+"nonDeductibleVATAmount": "€5,11",
+"currencyCode": "EUR"
+},
+{
+"entryId": "7bc73bc6-5c7e-41a7-af3b-0cb60086187b",
+"expenseType": "Sports",
+"amount": "€954.69",
+"deductibleAmount": "€93.68",
+"nonDeductibleAmount": "€0.27",
+"transactionDate": "2020-04-05",
+"deductibleVATAmount": "€8,80",
+"nonDeductibleVATAmount": "€1,85",
+"currencyCode": "EUR"
+},
+{
+"entryId": "6cbc6f1a-45f0-42b8-9609-fbbeac07d8fc",
+"expenseType": "Garden",
+"amount": "€128.92",
+"deductibleAmount": "€65.91",
+"nonDeductibleAmount": "€6.91",
+"transactionDate": "2020-05-21",
+"deductibleVATAmount": "€2,50",
+"nonDeductibleVATAmount": "€1,47",
+"currencyCode": "EUR"
+},
+{
+"entryId": "ead674ec-88ba-4ba2-b30f-b0252a57e307",
+"expenseType": "Movies",
+"amount": "€958.21",
+"deductibleAmount": "€40.27",
+"nonDeductibleAmount": "€9.09",
+"transactionDate": "2019-10-28",
+"deductibleVATAmount": "€1,50",
+"nonDeductibleVATAmount": "€3,67",
+"currencyCode": "EUR"
+},
+{
+"entryId": "8b1e3aef-8ccf-4e34-a731-ad095a53019d",
+"expenseType": "Outdoors",
+"amount": "€226.72",
+"deductibleAmount": "€70.73",
+"nonDeductibleAmount": "€3.15",
+"transactionDate": "2020-04-04",
+"deductibleVATAmount": "€8,24",
+"nonDeductibleVATAmount": "€5,09",
+"currencyCode": "EUR"
+},
+{
+"entryId": "760eb6e1-b345-41be-a9a4-9a16a358b383",
+"expenseType": "Jewelery",
+"amount": "€222.99",
+"deductibleAmount": "€7.02",
+"nonDeductibleAmount": "€4.28",
+"transactionDate": "2020-03-27",
+"deductibleVATAmount": "€6,42",
+"nonDeductibleVATAmount": "€0,73",
+"currencyCode": "EUR"
+},
+{
+"entryId": "4aaabdbc-fd84-4da1-a79f-bfd7946d74ce",
+"expenseType": "Beauty",
+"amount": "€98.82",
+"deductibleAmount": "€78.03",
+"nonDeductibleAmount": "€8.54",
+"transactionDate": "2019-09-02",
+"deductibleVATAmount": "€9,19",
+"nonDeductibleVATAmount": "€8,32",
+"currencyCode": "EUR"
+},
+{
+"entryId": "a6ea6846-e151-4462-993e-b3c86acd0740",
+"expenseType": "Garden",
+"amount": "€267.03",
+"deductibleAmount": "€11.71",
+"nonDeductibleAmount": "€6.54",
+"transactionDate": "2020-01-11",
+"deductibleVATAmount": "€3,11",
+"nonDeductibleVATAmount": "€2,37",
+"currencyCode": "EUR"
+},
+{
+"entryId": "a525fa6a-73b5-4907-81ad-1892190e8e44",
+"expenseType": "Industrial",
+"amount": "€83.14",
+"deductibleAmount": "€22.88",
+"nonDeductibleAmount": "€2.76",
+"transactionDate": "2019-12-30",
+"deductibleVATAmount": "€8,00",
+"nonDeductibleVATAmount": "€4,29",
+"currencyCode": "EUR"
+},
+{
+"entryId": "24c0b949-f575-4b92-9bde-d4ba2eb46f83",
+"expenseType": "Health",
+"amount": "€723.43",
+"deductibleAmount": "€57.19",
+"nonDeductibleAmount": "€6.03",
+"transactionDate": "2019-10-21",
+"deductibleVATAmount": "€2,78",
+"nonDeductibleVATAmount": "€2,98",
+"currencyCode": "EUR"
+},
+{
+"entryId": "2b8fd5f2-d801-49e8-b00e-5d280d7ed1ac",
+"expenseType": "Sports",
+"amount": "€574.57",
+"deductibleAmount": "€62.10",
+"nonDeductibleAmount": "€0.45",
+"transactionDate": "2019-08-02",
+"deductibleVATAmount": "€1,84",
+"nonDeductibleVATAmount": "€3,74",
+"currencyCode": "EUR"
+},
+{
+"entryId": "9280d121-0924-4086-8dc4-b87bccb316c2",
+"expenseType": "Garden",
+"amount": "€599.60",
+"deductibleAmount": "€5.71",
+"nonDeductibleAmount": "€2.11",
+"transactionDate": "2020-06-23",
+"deductibleVATAmount": "€2,56",
+"nonDeductibleVATAmount": "€9,24",
+"currencyCode": "EUR"
+},
+{
+"entryId": "372dd345-5794-4092-84af-7dc2876dbdfe",
+"expenseType": "Toys",
+"amount": "€171.97",
+"deductibleAmount": "€37.42",
+"nonDeductibleAmount": "€7.17",
+"transactionDate": "2020-01-12",
+"deductibleVATAmount": "€1,01",
+"nonDeductibleVATAmount": "€7,46",
+"currencyCode": "EUR"
+},
+{
+"entryId": "de1c0eb2-5860-489a-942a-69534ff6f011",
+"expenseType": "Electronics",
+"amount": "€71.30",
+"deductibleAmount": "€9.58",
+"nonDeductibleAmount": "€9.28",
+"transactionDate": "2020-06-03",
+"deductibleVATAmount": "€6,05",
+"nonDeductibleVATAmount": "€3,94",
+"currencyCode": "ZMW"
+},
+{
+"entryId": "b3a7a29f-6a19-4e55-985d-0d921cbcd309",
+"expenseType": "Music",
+"amount": "€68.42",
+"deductibleAmount": "€82.20",
+"nonDeductibleAmount": "€1.39",
+"transactionDate": "2019-07-29",
+"deductibleVATAmount": "€6,20",
+"nonDeductibleVATAmount": "€5,98",
+"currencyCode": "IDR"
+},
+{
+"entryId": "66411783-9393-4348-8f7c-b95adef27421",
+"expenseType": "Clothing",
+"amount": "€863.29",
+"deductibleAmount": "€58.35",
+"nonDeductibleAmount": "€7.75",
+"transactionDate": "2019-07-04",
+"deductibleVATAmount": "€2,98",
+"nonDeductibleVATAmount": "€1,11",
+"currencyCode": "AFN"
+},
+{
+"entryId": "0d389e67-a33a-4a4b-a217-82c464248508",
+"expenseType": "Clothing",
+"amount": "€939.89",
+"deductibleAmount": "€2.49",
+"nonDeductibleAmount": "€6.82",
+"transactionDate": "2020-02-20",
+"deductibleVATAmount": "€9,94",
+"nonDeductibleVATAmount": "€1,09",
+"currencyCode": "PHP"
+},
+{
+"entryId": "e2ee47b0-e30e-4dd4-9790-e8ab45e7e795",
+"expenseType": "Outdoors",
+"amount": "€897.72",
+"deductibleAmount": "€33.01",
+"nonDeductibleAmount": "€9.67",
+"transactionDate": "2020-01-05",
+"deductibleVATAmount": "€7,67",
+"nonDeductibleVATAmount": "€4,51",
+"currencyCode": "JPY"
+},
+{
+"entryId": "88f2ee2d-7ad7-468c-bf3b-f136fd73c617",
+"expenseType": "Baby",
+"amount": "€445.01",
+"deductibleAmount": "€51.29",
+"nonDeductibleAmount": "€3.38",
+"transactionDate": "2020-05-30",
+"deductibleVATAmount": "€9,88",
+"nonDeductibleVATAmount": "€8,83",
+"currencyCode": "RUB"
+},
+{
+"entryId": "a6ba1fbd-a2f1-4c95-990d-8d955ef7e371",
+"expenseType": "Shoes",
+"amount": "€541.99",
+"deductibleAmount": "€58.09",
+"nonDeductibleAmount": "€9.56",
+"transactionDate": "2020-06-03",
+"deductibleVATAmount": "€0,07",
+"nonDeductibleVATAmount": "€1,23",
+"currencyCode": "EGP"
+},
+{
+"entryId": "a04025d3-ded0-4bfd-83be-b341c601aff8",
+"expenseType": "Computers",
+"amount": "€364.95",
+"deductibleAmount": "€87.55",
+"nonDeductibleAmount": "€8.74",
+"transactionDate": "2019-08-28",
+"deductibleVATAmount": "€7,50",
+"nonDeductibleVATAmount": "€4,15",
+"currencyCode": "EUR"
+},
+{
+"entryId": "d6b33fe3-8c92-414a-b389-ed638f078af4",
+"expenseType": "Music",
+"amount": "€14.66",
+"deductibleAmount": "€30.95",
+"nonDeductibleAmount": "€2.24",
+"transactionDate": "2019-07-04",
+"deductibleVATAmount": "€7,79",
+"nonDeductibleVATAmount": "€1,55",
+"currencyCode": "BRL"
+},
+{
+"entryId": "a169c0ae-7d96-44b0-825d-b5bdf7f57fd0",
+"expenseType": "Health",
+"amount": "€27.81",
+"deductibleAmount": "€74.70",
+"nonDeductibleAmount": "€2.37",
+"transactionDate": "2020-03-22",
+"deductibleVATAmount": "€1,91",
+"nonDeductibleVATAmount": "€9,93",
+"currencyCode": "TZS"
+},
+{
+"entryId": "43de0fa8-776b-4397-9417-e01831504a9a",
+"expenseType": "Jewelery",
+"amount": "€12.83",
+"deductibleAmount": "€7.59",
+"nonDeductibleAmount": "€1.69",
+"transactionDate": "2019-07-27",
+"deductibleVATAmount": "€6,19",
+"nonDeductibleVATAmount": "€2,87",
+"currencyCode": "CNY"
+},
+{
+"entryId": "4816c044-e889-4167-9e2f-beb448d531a2",
+"expenseType": "Electronics",
+"amount": "€584.09",
+"deductibleAmount": "€49.01",
+"nonDeductibleAmount": "€3.76",
+"transactionDate": "2019-11-15",
+"deductibleVATAmount": "€4,79",
+"nonDeductibleVATAmount": "€2,34",
+"currencyCode": "PLN"
+},
+{
+"entryId": "ab25c732-4a7c-4052-8a6b-4926c9c740f5",
+"expenseType": "Music",
+"amount": "€205.61",
+"deductibleAmount": "€80.24",
+"nonDeductibleAmount": "€6.19",
+"transactionDate": "2019-12-02",
+"deductibleVATAmount": "€4,00",
+"nonDeductibleVATAmount": "€2,81",
+"currencyCode": "EUR"
+},
+{
+"entryId": "31aeb654-4c75-460f-b354-e14e7dfaa779",
+"expenseType": "Movies",
+"amount": "€491.75",
+"deductibleAmount": "€88.80",
+"nonDeductibleAmount": "€6.50",
+"transactionDate": "2019-08-02",
+"deductibleVATAmount": "€7,81",
+"nonDeductibleVATAmount": "€4,62",
+"currencyCode": "PEN"
+},
+{
+"entryId": "2ccbd4e9-7db9-4a4b-9a62-55f25beaa97e",
+"expenseType": "Jewelery",
+"amount": "€887.40",
+"deductibleAmount": "€21.59",
+"nonDeductibleAmount": "€3.04",
+"transactionDate": "2020-06-24",
+"deductibleVATAmount": "€3,89",
+"nonDeductibleVATAmount": "€1,38",
+"currencyCode": "CNY"
+},
+{
+"entryId": "283db860-1f84-450b-9085-14ab3aa14239",
+"expenseType": "Beauty",
+"amount": "€859.96",
+"deductibleAmount": "€1.63",
+"nonDeductibleAmount": "€7.57",
+"transactionDate": "2019-10-13",
+"deductibleVATAmount": "€6,20",
+"nonDeductibleVATAmount": "€3,10",
+"currencyCode": "CNY"
+},
+{
+"entryId": "ff4c2794-cf8b-4765-a6a2-3a467492e600",
+"expenseType": "Tools",
+"amount": "€666.94",
+"deductibleAmount": "€42.04",
+"nonDeductibleAmount": "€4.84",
+"transactionDate": "2020-05-26",
+"deductibleVATAmount": "€9,56",
+"nonDeductibleVATAmount": "€6,10",
+"currencyCode": "EUR"
+},
+{
+"entryId": "9feeda94-5be8-4021-bcd5-b3273a3947b5",
+"expenseType": "Toys",
+"amount": "€290.22",
+"deductibleAmount": "€16.34",
+"nonDeductibleAmount": "€2.01",
+"transactionDate": "2020-06-13",
+"deductibleVATAmount": "€4,10",
+"nonDeductibleVATAmount": "€9,76",
+"currencyCode": "SEK"
+},
+{
+"entryId": "abca59b7-58c4-4104-a86b-0fcda409590d",
+"expenseType": "Jewelery",
+"amount": "€870.84",
+"deductibleAmount": "€97.10",
+"nonDeductibleAmount": "€5.68",
+"transactionDate": "2019-12-06",
+"deductibleVATAmount": "€0,55",
+"nonDeductibleVATAmount": "€8,79",
+"currencyCode": "CNY"
+},
+{
+"entryId": "550d37d1-91a9-47dc-9f70-77b94c1a0e58",
+"expenseType": "Electronics",
+"amount": "€481.62",
+"deductibleAmount": "€14.42",
+"nonDeductibleAmount": "€6.05",
+"transactionDate": "2020-02-27",
+"deductibleVATAmount": "€4,97",
+"nonDeductibleVATAmount": "€6,80",
+"currencyCode": "CAD"
+},
+{
+"entryId": "219fe4f0-a5d9-4697-b172-c3747d9427e0",
+"expenseType": "Music",
+"amount": "€77.88",
+"deductibleAmount": "€39.18",
+"nonDeductibleAmount": "€8.55",
+"transactionDate": "2019-08-10",
+"deductibleVATAmount": "€6,89",
+"nonDeductibleVATAmount": "€2,22",
+"currencyCode": "EUR"
+},
+{
+"entryId": "5f18754a-f6ca-4e3b-839d-3f311dab84e5",
+"expenseType": "Clothing",
+"amount": "€430.37",
+"deductibleAmount": "€56.77",
+"nonDeductibleAmount": "€2.09",
+"transactionDate": "2019-12-04",
+"deductibleVATAmount": "€8,14",
+"nonDeductibleVATAmount": "€3,34",
+"currencyCode": "CNY"
+},
+{
+"entryId": "626302f9-1df1-4a26-a8d7-e600a77cc267",
+"expenseType": "Jewelery",
+"amount": "€200.30",
+"deductibleAmount": "€40.25",
+"nonDeductibleAmount": "€0.50",
+"transactionDate": "2020-03-07",
+"deductibleVATAmount": "€7,41",
+"nonDeductibleVATAmount": "€0,39",
+"currencyCode": "XAF"
+},
+{
+"entryId": "bbb44a54-df0c-415f-bac6-8ac9b59f4ea0",
+"expenseType": "Health",
+"amount": "€178.85",
+"deductibleAmount": "€54.77",
+"nonDeductibleAmount": "€8.93",
+"transactionDate": "2019-12-19",
+"deductibleVATAmount": "€3,03",
+"nonDeductibleVATAmount": "€1,93",
+"currencyCode": "BGN"
+}
+],
+"taxableEntries": [
+{
+"entryId": "423c3d12-0254-45a5-bdaa-1faf465bcc28",
+"expenseType": "Industrial",
+"amount": "€244,34",
+"taxableAmount": "€79,25",
+"transactionDate": "2019-08-15",
+"nonTaxableAmount": "€7,75",
+"currencyCode": "EUR"
+},
+{
+"entryId": "0c2f1bf1-b783-4102-a7ab-66f61171b183",
+"expenseType": "Electronics",
+"amount": "€89,30",
+"taxableAmount": "€18,64",
+"transactionDate": "2019-07-02",
+"nonTaxableAmount": "€6,76",
+"currencyCode": "EUR"
+},
+{
+"entryId": "7d1f511f-c63d-43bb-9653-09752267609c",
+"expenseType": "Baby",
+"amount": "€48,34",
+"taxableAmount": "€71,55",
+"transactionDate": "2019-07-22",
+"nonTaxableAmount": "€4,40",
+"currencyCode": "EUR"
+},
+{
+"entryId": "b4e8a39f-c6ae-47e8-8e56-4e19fcda46d4",
+"expenseType": "Industrial",
+"amount": "€714,80",
+"taxableAmount": "€91,03",
+"transactionDate": "2019-12-08",
+"nonTaxableAmount": "€7,41",
+"currencyCode": "EUR"
+},
+{
+"entryId": "4f30f3bc-b995-4773-9dbc-f32b426c8428",
+"expenseType": "Electronics",
+"amount": "€330,45",
+"taxableAmount": "€85,51",
+"transactionDate": "2019-11-18",
+"nonTaxableAmount": "€2,55",
+"currencyCode": "EUR"
+},
+{
+"entryId": "88f98c3e-42b2-4ebe-a0be-bb5450691eb6",
+"expenseType": "Toys",
+"amount": "€727,75",
+"taxableAmount": "€12,53",
+"transactionDate": "2020-03-05",
+"nonTaxableAmount": "€9,39",
+"currencyCode": "EUR"
+},
+{
+"entryId": "ba3aef9a-dfb0-4def-9c51-d85c29a5c6af",
+"expenseType": "Beauty",
+"amount": "€760,60",
+"taxableAmount": "€31,36",
+"transactionDate": "2019-11-30",
+"nonTaxableAmount": "€0,58",
+"currencyCode": "EUR"
+},
+{
+"entryId": "6b81bd29-28bb-4409-baa7-8154be73778b",
+"expenseType": "Tools",
+"amount": "€253,59",
+"taxableAmount": "€36,03",
+"transactionDate": "2020-05-19",
+"nonTaxableAmount": "€5,56",
+"currencyCode": "EUR"
+},
+{
+"entryId": "70a98b01-07a1-4bfb-86fe-375c3320e670",
+"expenseType": "Health",
+"amount": "€441,51",
+"taxableAmount": "€27,99",
+"transactionDate": "2019-09-08",
+"nonTaxableAmount": "€5,80",
+"currencyCode": "EUR"
+},
+{
+"entryId": "b5ed1fff-4e45-4851-aebd-d5640802d9f5",
+"expenseType": "Outdoors",
+"amount": "€456,55",
+"taxableAmount": "€95,31",
+"transactionDate": "2020-02-15",
+"nonTaxableAmount": "€2,51",
+"currencyCode": "EUR"
+},
+{
+"entryId": "1731536f-8384-4506-bb78-0dc4083b92e3",
+"expenseType": "Outdoors",
+"amount": "€352,47",
+"taxableAmount": "€58,47",
+"transactionDate": "2019-10-27",
+"nonTaxableAmount": "€2,07",
+"currencyCode": "EUR"
+},
+{
+"entryId": "079168ee-7f24-475a-8e8f-0624d8b89594",
+"expenseType": "Garden",
+"amount": "€234,40",
+"taxableAmount": "€59,23",
+"transactionDate": "2020-03-02",
+"nonTaxableAmount": "€9,65",
+"currencyCode": "EUR"
+},
+{
+"entryId": "6edf9303-182a-4051-b999-d9cbc2ed7bc9",
+"expenseType": "Jewelery",
+"amount": "€158,42",
+"taxableAmount": "€21,77",
+"transactionDate": "2020-01-03",
+"nonTaxableAmount": "€4,91",
+"currencyCode": "EUR"
+},
+{
+"entryId": "3401a3e3-4395-46de-a027-740bb58abf9d",
+"expenseType": "Shoes",
+"amount": "€574,07",
+"taxableAmount": "€94,48",
+"transactionDate": "2019-10-31",
+"nonTaxableAmount": "€1,63",
+"currencyCode": "EUR"
+},
+{
+"entryId": "ff8e7971-32d6-4865-8ddf-79ff2034866d",
+"expenseType": "Jewelery",
+"amount": "€306,87",
+"taxableAmount": "€28,48",
+"transactionDate": "2019-09-22",
+"nonTaxableAmount": "€0,33",
+"currencyCode": "EUR"
+},
+{
+"entryId": "aa453cfb-955a-4152-99ad-04de9d9a10e7",
+"expenseType": "Home",
+"amount": "€662,14",
+"taxableAmount": "€75,78",
+"transactionDate": "2020-02-25",
+"nonTaxableAmount": "€7,94",
+"currencyCode": "EUR"
+},
+{
+"entryId": "655a2316-9690-43f7-aaa8-db4b368cce11",
+"expenseType": "Beauty",
+"amount": "€696,54",
+"taxableAmount": "€80,67",
+"transactionDate": "2019-12-28",
+"nonTaxableAmount": "€9,26",
+"currencyCode": "EUR"
+},
+{
+"entryId": "e0718cd6-2ccf-4de0-8126-cb58e7f0fc89",
+"expenseType": "Toys",
+"amount": "€590,79",
+"taxableAmount": "€49,65",
+"transactionDate": "2019-10-18",
+"nonTaxableAmount": "€5,35",
+"currencyCode": "EUR"
+},
+{
+"entryId": "403706dd-d855-4aaf-ba06-7a8f8ed8a797",
+"expenseType": "Kids",
+"amount": "€533,90",
+"taxableAmount": "€78,00",
+"transactionDate": "2019-11-14",
+"nonTaxableAmount": "€1,36",
+"currencyCode": "EUR"
+},
+{
+"entryId": "98583f8a-45a9-4311-af42-d8d60a7ed34f",
+"expenseType": "Games",
+"amount": "€690,45",
+"taxableAmount": "€20,97",
+"transactionDate": "2019-11-28",
+"nonTaxableAmount": "€1,72",
+"currencyCode": "EUR"
+},
+{
+"entryId": "525d24e7-5589-4d02-b908-e12cb576a3cf",
+"expenseType": "Health",
+"amount": "€159,41",
+"taxableAmount": "€54,29",
+"transactionDate": "2020-05-12",
+"nonTaxableAmount": "€2,48",
+"currencyCode": "EUR"
+},
+{
+"entryId": "44f261c7-5311-4593-82b7-7bc8ad00d3c3",
+"expenseType": "Books",
+"amount": "€975,60",
+"taxableAmount": "€43,07",
+"transactionDate": "2019-11-08",
+"nonTaxableAmount": "€6,64",
+"currencyCode": "EUR"
+},
+{
+"entryId": "1913d913-6b02-4ef3-abdc-8d244f0d4bb1",
+"expenseType": "Music",
+"amount": "€884,82",
+"taxableAmount": "€1,25",
+"transactionDate": "2020-06-03",
+"nonTaxableAmount": "€5,69",
+"currencyCode": "EUR"
+},
+{
+"entryId": "37222a50-073d-490c-a451-896cbfd1521c",
+"expenseType": "Outdoors",
+"amount": "€401,20",
+"taxableAmount": "€44,79",
+"transactionDate": "2020-04-05",
+"nonTaxableAmount": "€7,06",
+"currencyCode": "EUR"
+},
+{
+"entryId": "91aa0ffc-363a-4ec0-8dcc-4dbf4721920c",
+"expenseType": "Garden",
+"amount": "€504,26",
+"taxableAmount": "€80,96",
+"transactionDate": "2019-12-08",
+"nonTaxableAmount": "€1,10",
+"currencyCode": "EUR"
+},
+{
+"entryId": "c4c0433c-2825-4c70-807a-df82a5fe36f3",
+"expenseType": "Kids",
+"amount": "€468,92",
+"taxableAmount": "€94,60",
+"transactionDate": "2019-10-16",
+"nonTaxableAmount": "€9,57",
+"currencyCode": "EUR"
+},
+{
+"entryId": "6f547b29-01d6-4a33-8e4c-9eb62c5e5252",
+"expenseType": "Industrial",
+"amount": "€977,50",
+"taxableAmount": "€61,58",
+"transactionDate": "2019-09-22",
+"nonTaxableAmount": "€9,75",
+"currencyCode": "EUR"
+},
+{
+"entryId": "01fed577-abb5-4362-afab-f2f976fc5b5f",
+"expenseType": "Outdoors",
+"amount": "€702,92",
+"taxableAmount": "€41,89",
+"transactionDate": "2020-01-06",
+"nonTaxableAmount": "€4,33",
+"currencyCode": "EUR"
+},
+{
+"entryId": "24246abb-4449-4502-9a76-9dd58b2dc4fb",
+"expenseType": "Shoes",
+"amount": "€486,50",
+"taxableAmount": "€45,00",
+"transactionDate": "2020-01-28",
+"nonTaxableAmount": "€6,46",
+"currencyCode": "EUR"
+},
+{
+"entryId": "bf3a3942-e54c-4f87-8394-4908be3faed1",
+"expenseType": "Industrial",
+"amount": "€674,79",
+"taxableAmount": "€71,11",
+"transactionDate": "2020-02-18",
+"nonTaxableAmount": "€6,43",
+"currencyCode": "EUR"
+},
+{
+"entryId": "54bf31e2-57fc-4cd8-b435-3787fb608464",
+"expenseType": "Outdoors",
+"amount": "€496,16",
+"taxableAmount": "€22,17",
+"transactionDate": "2019-07-05",
+"nonTaxableAmount": "€1,95",
+"currencyCode": "EUR"
+},
+{
+"entryId": "0a929b71-1a33-457f-b376-7a654f5f14ff",
+"expenseType": "Automotive",
+"amount": "€433,60",
+"taxableAmount": "€16,79",
+"transactionDate": "2020-03-04",
+"nonTaxableAmount": "€1,58",
+"currencyCode": "EUR"
+},
+{
+"entryId": "e29365c6-4e38-4f84-ae90-ace3e81681fd",
+"expenseType": "Electronics",
+"amount": "€20,04",
+"taxableAmount": "€61,34",
+"transactionDate": "2019-08-15",
+"nonTaxableAmount": "€1,14",
+"currencyCode": "EUR"
+},
+{
+"entryId": "4cca78ae-b96f-47fe-ba11-21ef6c9741c5",
+"expenseType": "Games",
+"amount": "€261,72",
+"taxableAmount": "€99,72",
+"transactionDate": "2019-11-21",
+"nonTaxableAmount": "€8,24",
+"currencyCode": "EUR"
+},
+{
+"entryId": "337d9444-78ac-4c22-86fe-4807bc634087",
+"expenseType": "Home",
+"amount": "€249,72",
+"taxableAmount": "€61,02",
+"transactionDate": "2019-12-21",
+"nonTaxableAmount": "€9,44",
+"currencyCode": "EUR"
+},
+{
+"entryId": "13a92dad-454c-48b9-9bc1-913d8257a743",
+"expenseType": "Tools",
+"amount": "€953,18",
+"taxableAmount": "€84,10",
+"transactionDate": "2020-02-13",
+"nonTaxableAmount": "€7,33",
+"currencyCode": "EUR"
+},
+{
+"entryId": "82304c76-d397-44ba-bf4b-09f3ee3f5e3c",
+"expenseType": "Outdoors",
+"amount": "€392,85",
+"taxableAmount": "€53,65",
+"transactionDate": "2019-12-12",
+"nonTaxableAmount": "€1,02",
+"currencyCode": "EUR"
+},
+{
+"entryId": "4c2f4752-ff34-437c-a741-81b8ee175433",
+"expenseType": "Electronics",
+"amount": "€23,47",
+"taxableAmount": "€2,18",
+"transactionDate": "2019-12-26",
+"nonTaxableAmount": "€2,70",
+"currencyCode": "EUR"
+},
+{
+"entryId": "f52df9dc-66b1-4942-954d-682740d035e8",
+"expenseType": "Computers",
+"amount": "€626,28",
+"taxableAmount": "€22,98",
+"transactionDate": "2019-12-31",
+"nonTaxableAmount": "€8,04",
+"currencyCode": "EUR"
+},
+{
+"entryId": "b381ae7a-a8c2-4380-b462-b0491a4cdc20",
+"expenseType": "Tools",
+"amount": "€318,13",
+"taxableAmount": "€91,25",
+"transactionDate": "2020-05-12",
+"nonTaxableAmount": "€3,67",
+"currencyCode": "EUR"
+}
+]
+}
